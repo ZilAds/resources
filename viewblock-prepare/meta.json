@@ -2,7 +2,8 @@
   "name": "Zilliqa Ad Network",
   "symbol": "ADS",
   "web": "https://zilads.github.io",
-  "supply": "10000000000000",
+  "decimals": "6",
+  "supply": "10000000",
   "email": "zilliqaads@gmail.com",
   "whitepaper": "https://github.com/ZilAds/resources/blob/main/whitepaper.pdf",
   "publicTeam": true,
@@ -14,6 +15,6 @@
   },
   "gen": {
     "logo": "logo.svg",
-    "score": 43
+    "score": 60
   }
 }
