@@ -1,10 +1,10 @@
 {
-  "name": "Zilliqa Advertising Network",
+  "name": "Zilliqa Ad Network",
   "symbol": "ADS",
   "web": "https://zilads.github.io",
-  "supply": "10000000-NUMBER-without-decimals",
-  "email": "contact@EMAIL",
-  "whitepaper": "https://ADS-whitepaper.com/file.pdf",
+  "supply": "10000000000000",
+  "email": "zilliqaads@gmail.com",
+  "whitepaper": "https://github.com/ZilAds/resources",
   "publicTeam": true,
   "links": {
     "telegram": "https://t.me/zilads",
